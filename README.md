@@ -1,5 +1,4 @@
 # 🚀Telegram WebNotifier🚀
- ## Read in Your Own Language.
 
 
 ## Description
