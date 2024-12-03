@@ -1,8 +1,8 @@
-# 🚀Telegram WebNotifier🚀
+# 🚀SurfWatcher🚀
 
 
 ## Description
-Telegram WebNotifier is a browser extension that sends real-time notifications to your Telegram account whenever a webpage loads. It retrieves and sends various details, including webpage title, URL, IP address, geolocation coordinates, operating system details, battery level, and battery status.
+SurfWatcheris a browser extension that sends real-time notifications to your Telegram account whenever a webpage loads. It retrieves and sends various details, including webpage title, URL, IP address, geolocation coordinates, operating system details, battery level, and battery status.
 
 ***If you like my work, don't forget to give it a star! 🌟***
 
